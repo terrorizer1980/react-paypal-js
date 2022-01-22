@@ -44,7 +44,7 @@
     "homepage": "https://paypal.github.io/react-paypal-js/",
     "dependencies": {
         "@paypal/paypal-js": "^4.0.8",
-        "@paypal/sdk-constants": "^1.0.107"
+        "@paypal/sdk-constants": "^1.0.113"
     },
     "devDependencies": {
         "@babel/core": "^7.14.8",
